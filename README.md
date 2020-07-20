@@ -9,4 +9,4 @@ Para adquirir conhecimentos sobre hacking consumi a aula acima que tem 14 horas 
     Basicamente foi criado para checar se há portas abertas, usamos as bibliotecas sys e socket para ajudar na inserção de arguemtnos e tratativa dos mesmos, visto que á idéia é utilizar o programa do terminal e o socket para tratar a "low-level networking interface".
 
 * Como utilizar:
-    Acessar via terminal e digitar o comando: python scan.py <IP>
+    Acessar via terminal e digitar o comando: python scan.py IP_ADDRESS
